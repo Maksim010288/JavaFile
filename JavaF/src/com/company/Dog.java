@@ -1,4 +1,9 @@
 package com.company;
 
-public class Dog {
+public class Dog extends Animals {
+
+    public String name = "Filip";
+    String bread = "Pikines";
+
+
 }
